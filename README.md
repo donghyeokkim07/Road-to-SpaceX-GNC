@@ -2,7 +2,7 @@
 Road to SpaceX Starship Guidance, Navigation &amp; Control
 
 **Donghyeok Kim**  
-Korean high school senior (18) → POSTECH Class of 2030
+Korean high school senior (18) -> POSTECH Class of 2030
 
 On Nov 27, 2025 I emailed:
 - Keith Nicewarner (Principal GNC Engineer)
