@@ -1,8 +1,6 @@
 # Road-to-SpaceX-GNC
 Road to SpaceX Starship Guidance, Navigation &amp; Control
 
-# Road to SpaceX Starship GNC 🚀
-
 **Donghyeok Kim**  
 Korean high school senior (18) → POSTECH Class of 2030
 
